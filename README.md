@@ -1,8 +1,8 @@
 Projet Final
 
 Alain Castonguay
-Marie-Hélene Doré
+Marie-Hélène Doré
 
 
-Cours : SIO 2109 - Introduction a la programmation
+Cours : SIO 2109 - Introduction à la programmation
 

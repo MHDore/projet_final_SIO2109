@@ -1,5 +1,6 @@
 part of educ_memory_game;
 
+//Following include modifications by Alain Castonguay and Marie-Helene Dore
 var imageList = [
                  'bishop.jpg',
                  'brown.jpg',

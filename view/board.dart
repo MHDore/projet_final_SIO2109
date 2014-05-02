@@ -27,12 +27,11 @@ class Board {
   }
   
   
-
   void gameLoop(num delta) {
     draw();
     window.animationFrame.then(gameLoop);
   }
-
+//Following include modifications by Alain Castonguay and Marie-Helene Dore
   void draw() {
     _clear();
     _boxes();

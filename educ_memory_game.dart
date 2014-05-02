@@ -10,6 +10,7 @@ part 'view/board.dart';
 part 'util/images.dart';
 part 'util/random.dart';
 
+//Following include modifications by Alain Castonguay and Marie-Helene Dore
 void main() {
   var cellsNumber1 = 4; var cellsNumber2 = 6; 
   var canvasSize1 = cellsNumber1 * 80; var canvasSize2 = cellsNumber2 * 80;

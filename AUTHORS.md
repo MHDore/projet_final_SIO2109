@@ -2,4 +2,4 @@
 
 Dzenan Ridjanovic and Ivo Balbaert.
 
-Modifcations Alain Castonguay and Marie-Helene Dore.
+Modifications : Alain Castonguay and Marie-Helene Dore.

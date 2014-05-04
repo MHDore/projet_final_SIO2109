@@ -1,6 +1,6 @@
 #Final Project
 
-Alain Castonguay
+Alain Castonguay and
 Marie-Helene Dore
 
 SIO 2109 Introduction 

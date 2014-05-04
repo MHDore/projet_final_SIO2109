@@ -1,12 +1,10 @@
-#Projet Final
+#Final Project
 
 Alain Castonguay
-Marie-Hélène Doré
+Marie-Helene Dore
 
+SIO 2109 Introduction 
 
-Cours : SIO 2109 - Introduction à la programmation
-
-Our aim was to modify educ memory game with the addition of two levels (beginner and advanced).
-Since advanced level was ment to be more challenging we decided to put many images that look
-slighty alike. 
+Our aim was to modify educ memory game by adding a level (now there's two : beginner and advanced).
+We decided also to put many images that look slightly alike, for the game to be more challenging.
  
